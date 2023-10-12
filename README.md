@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Heyy I am Nandkishor Gadgi
 🔭 I'm currently working on  a chat app.<br>🌱 I’m currently learning docker and Kubernetes<br>👯 I’m looking forward to collaborate on open source projects.<br>💬: Ask me about docker & Machine learning algorithms. 📊📈🤖🧠<br>📫 Reach out to me at : nandakishor.2206@gmail.com
 
 
